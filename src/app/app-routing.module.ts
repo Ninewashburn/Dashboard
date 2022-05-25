@@ -6,6 +6,7 @@ import { SalesComponent } from './sales/sales.component';
 
 
 const routes: Routes = [
+  { path: '', component: DashComponent },
   { path: 'dashboard', component: DashComponent },
   { path: 'ventes', component: SalesComponent }
 ];
