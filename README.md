@@ -15,5 +15,3 @@ Elles permettent entre autres de :
  - les ventes par sources de trafic
  - les dernières commandes et leurs statuts.
  - un panneau entier avec numéro de commande, date, nom, état, montant total, mode de paiement...
-
-Ce projet est fait en d'Angular et avec l'aide d'un du tutoriel : https://www.smashingmagazine.com/2020/07/responsive-dashboard-angular-material-ng2-charts-schematics/.
